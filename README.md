@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Nava Deep 👋  <br><br>🎓 B.Tech in Mathematics & Computing  <br>🏛 Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat  <br><br>💻 Strong foundation in Mathematics, Algorithms & Problem Solving  <br>📊 Exploring Machine Learning and its real-world applications  <br>🤖 Interested in Agentic AI, Artificial General Intelligence, and intelligent systems  <br><br>I enjoy building efficient solutions, understanding systems deeply, and exploring the intersection of mathematics, AI, and computation.
 
 
@@ -12,7 +11,8 @@ Hi, I'm Nava Deep 👋  <br><br>🎓 B.Tech in Mathematics & Computing  <br>🏛
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nava-deep-18&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Nava-deep-18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/Nava-deep-18/Nava-deep-18/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
