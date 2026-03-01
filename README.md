@@ -8,10 +8,6 @@ Hi, I'm Nava Deep 👋  <br><br>🎓 B.Tech in Mathematics & Computing  <br>🏛
 ![GitHub Stats](https://github-readme-stats-nu-ten-21.vercel.app/api?username=Nava-deep-18&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=stars,issues,prs&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nava-deep-18&theme=tokyonight&hide_border=true)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nava-deep-18&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=Nava-deep-18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/Nava-deep-18/Nava-deep-18/blob/output/github-snake-dark.svg)
 
